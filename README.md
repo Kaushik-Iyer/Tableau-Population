@@ -1,2 +1,10 @@
 # Tableau-Population
-DV IA-2 By Kaushik Iyer and Anay Nayak
+Provided a deep insight into the distribution of population of across the globe
+fuelled by statistical analysis of the same.
+
+
+
+## Authors
+
+- [@anay15](https://github.com/anay15)
+- [@Kaushik-Iyer](https://github.com/Kaushik-Iyer)
